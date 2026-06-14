@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Portal Cultural Conquista Arte</title>
+<title>Portal Cultural Brumado Arte</title>
 
 <style>
 
@@ -151,7 +151,7 @@ footer{
 <body>
 
 <header>
-    <h1>Portal Cultural Conquista Arte</h1>
+    <h1>Portal Cultural Brumado Arte</h1>
     <p>Valorizando artistas, artesãos e eventos culturais da comunidade.</p>
 </header>
 
@@ -168,7 +168,7 @@ footer{
     <h2>Sobre o Projeto</h2>
 
     <div class="card">
-        O Portal Cultural Conquista Arte foi criado para divulgar artistas,
+        O Portal Cultural Brumado Arte foi criado para divulgar artistas,
         artesãos, músicos e eventos culturais locais, promovendo maior acesso
         da comunidade às manifestações culturais da região.
     </div>
